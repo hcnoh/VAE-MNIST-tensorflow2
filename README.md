@@ -16,8 +16,8 @@ This repository is for the TensorFlow 2.0 implementation for VAE. This repositor
     You can use `Virtualenv`, so that the packages for requirements can be managed easily. If your machine have `Virtualenv` package, the following bash command would be useful.
 
     ```bash
-    $ virtualenv --system-site-packages -p python3 tacotron-venv
-    $ source ./tacotron-venv/bin/activate
+    $ virtualenv vae-mnist-tf2-venv
+    $ source ./vae-mnist-tf2-venv/bin/activate
     $ pip install -r requirements.txt
     ```
 
