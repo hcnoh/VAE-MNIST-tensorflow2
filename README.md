@@ -1,6 +1,6 @@
-# Variational Autoencoder (VAE) Implementation for Generating MNIST Images in TensorFlow 2.0
+# Variational Autoencoder (VAE) Implementation for Generating MNIST Images in TensorFlow2
 
-This repository is for the TensorFlow 2.0 implementation for VAE. This repository provides the training module and Jupyter notebook for testing a generation of the trained models. MNIST dataset was used for this repository.
+This repository is for the TensorFlow2 implementation for VAE. This repository provides the training module and Jupyter notebook for testing a generation of the trained models. MNIST dataset was used for this repository.
 
 ![](/assets/img/README/README_2019-10-17-19-44-46.png)
 
